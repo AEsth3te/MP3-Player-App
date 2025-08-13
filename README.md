@@ -214,7 +214,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/6f828cf4-687b-4f90-8d0a-ab9db8c5de05" />
+
 
 ---
 
